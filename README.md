@@ -4,14 +4,7 @@
 
 AccessLens AI is a hackathon prototype that combines object detection and image captioning to make image content easier to inspect and describe.
 
------
 
----
-<p align="center">
-  <img src="Image.png"  width="100%">
-</p>
-
------
 
 ## Features
 - Upload a JPG, PNG, or WEBP image.

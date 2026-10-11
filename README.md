@@ -8,7 +8,7 @@ AccessLens AI is a hackathon prototype that combines object detection and image 
 
 ---
 <p align="center">
-  <img src="Image.png" alt="MedVision AI Banner" width="100%">
+  <img src="Image.png"  width="100%">
 </p>
 
 -----

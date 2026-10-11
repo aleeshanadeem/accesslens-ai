@@ -44,11 +44,6 @@ The first run downloads model weights and may take several minutes. A stable int
 - This prototype does not measure distance, establish whether a path is traversable, or provide certified mobility/safety guidance.
 - Do not use its output as the sole basis for a safety-critical decision.
 
-## Credits
-- Ultralytics YOLO: https://github.com/ultralytics/ultralytics
-- Hugging Face Transformers: https://github.com/huggingface/transformers
-- BLIP model: https://huggingface.co/Salesforce/blip-image-captioning-base
-- Streamlit: https://streamlit.io/
 
 ## Hackathon integrity
 Add the exact tools/models you used and describe any AI-assisted development in your final submission. Ensure the code and project are created and committed within the event's allowed hacking window. Do not submit this same project to another hackathon.
